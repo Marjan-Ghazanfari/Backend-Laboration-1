@@ -1,5 +1,3 @@
-const { init } = require("../app");
-
 const form = document.querySelector('#getForm');
 const city = document.querySelector('#city');
 
